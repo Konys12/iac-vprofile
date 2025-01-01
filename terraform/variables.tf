@@ -9,5 +9,3 @@ variable "clusterName" {
   type        = string
   default     = "vprofile-eks"
 }
-
-# bogus comment to recommit
